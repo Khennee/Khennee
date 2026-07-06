@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="WELCOME.png" alt="Shawn Khennee ASCII Banner" width="600" />
+</div>
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Khennee.Khennee&left_color=midnightblue&right_color=darkviolet&left_text=Guest"  />
 </div>
@@ -112,3 +116,7 @@
 </picture>
 
 ###
+
+<div align="center">
+  <img src="THANK-YOU.png" alt="Shawn Khennee ASCII Banner" width="600" />
+</div>
