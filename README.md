@@ -88,13 +88,13 @@
 
 ###
 
-<div data-importer="stats" align="center">
+<!-- <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Khennee/Khennee/activity-graph-output/activity-graph.svg?radius=16&theme=nightowl&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph" /> <br>
   <img src="https://raw.githubusercontent.com/Khennee/Khennee/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://raw.githubusercontent.com/Khennee/Khennee/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://raw.githubusercontent.com/Khennee/Khennee/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Khennee&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
 
