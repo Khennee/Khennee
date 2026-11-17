@@ -1,12 +1,14 @@
 # Hi, I'm Shawn! 👋
 
-**Software Engineering Student | Aspiring Software QA Engineer | Full-Stack Developer**
+**4th-Year Software Engineering Student | Aspiring Software QA Engineer | Full-Stack Developer**
 
-I'm a Software Engineering student at Central Philippine University with hands-on experience developing, testing, and debugging web applications.
+I'm currently pursuing a Bachelor of Science in Software Engineering at Central Philippine University.
 
-My experience in full-stack development has helped me develop an interest in **Software Quality Assurance**, particularly understanding application behavior, identifying defects, and ensuring that features work as intended.
+Through academic, collaborative, and client-based projects, I've gained hands-on experience in full-stack development, software testing, debugging, and application integration.
 
-I'm currently seeking opportunities to gain practical experience in **Software QA, Software Testing, and Test Automation**.
+My development experience has strengthened my interest in **Software Quality Assurance**, particularly understanding application behavior, identifying defects, reproducing issues, and verifying software functionality.
+
+I'm currently exploring internship opportunities in **Software QA, Software Testing, and Test Automation**.
 
 ## 🧪 Testing & Quality Assurance
 
@@ -31,9 +33,9 @@ I'm currently seeking opportunities to gain practical experience in **Software Q
 ## 💻 Featured Projects
 
 ### 🏠 Cabansagan Realty
-*Real Estate Web Application | Client Project*
+*Real Estate Web Application | Private Repository*
 
-A web application supporting real estate buying, selling, and appraisal services.
+A client-based web application supporting property buying, selling, and appraisal services.
 
 **Tech Stack:** Next.js, TypeScript, Supabase
 
@@ -43,7 +45,7 @@ A web application supporting real estate buying, selling, and appraisal services
 - Investigation of authentication and authorization issues
 
 ### 📦 Biscocho Haus Inventory Management System
-*Inventory Management Application*
+*Inventory Management Application | Private Repository*
 
 An inventory management system designed to monitor and manage product stocks.
 
@@ -55,9 +57,9 @@ An inventory management system designed to monitor and manage product stocks.
 - Backend and database integration
 
 ### 🚗 CodeGreen
-*University Car Pass Management System | Team Project*
+*University Car Pass Management System | Public Repository*
 
-A web-based system for managing university vehicle passes.
+A collaborative web application for managing university vehicle passes.
 
 **Tech Stack:** React, TypeScript, Express.js
 
@@ -68,7 +70,7 @@ A web-based system for managing university vehicle passes.
 
 [View CodeGreen Repository](https://github.com/Rops-11/CodeGreen-BugBusters)
 
-> Some of my collaborative projects are hosted under teammates' or clients' repositories. Additional public repositories can be found in my [Starred Repositories](https://github.com/Khennee?tab=stars).
+> Some project repositories are private due to client or team access restrictions. Project descriptions reflect my development and testing contributions.
 
 ## 🎯 Currently Exploring
 
